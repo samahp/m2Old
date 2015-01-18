@@ -1,0 +1,3 @@
+Note that the lib directory contains a resources.jar file. This is to simulate
+a 3d party library you have to link to. You will need to ensure during the lab
+that this .jar is on the classpath for compilation and execution.
